@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Anirudh-chaudhary3
-- 👀 I’m interested in Machine learning and Artificial Intelligence
-- 🌱 I’m currently learning Data Science at G.L.A University
-- 💞️ I’m looking to collaborate on Projects which help me to explore more in my career
-- 📫 How to reach me : through my linkedlin account @ www.linkedin.com/in/anirudh-chaudhary0304
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+# 👋Hello, I'm Anirudh
+# 🚀Aspiring Data Scientist focusing on DATA
+
+📍**India**<br>
+📧**Email :** anirudhch0304@gmail.com<br>
+🔗**Linkedln :** www.linkedin.com/in/anirudh-chaudhary0304<br>
+👨🏻‍💻**GitHub :** 
+
+**About me**🌐
+
+
+**Professional Highlights**🌟
+
+
+**Tech Toolkit**🛠️
+
+- **Languages**🌱 -
+- **Frameworks & Libraries**📫 -
+- **Tools**👀 -
+- **Specialities**⚡ -
+
+**Education**🎓
+
+- **Bachelors in Computer Applications**, GLA University
+
+**Certification**📜
+
+- **Coursera** -
+- **Udemy** -
 
 <!---
 Anirudh-chaudhary3/Anirudh-chaudhary3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
