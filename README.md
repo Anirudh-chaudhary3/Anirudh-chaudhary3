@@ -4,7 +4,7 @@
 📍**India**<br>
 📧**Email :** anirudhch0304@gmail.com<br>
 🔗**Linkedln :** www.linkedin.com/in/anirudh-chaudhary0304<br>
-👨🏻‍💻**GitHub :** 
+👨🏻‍💻**GitHub :** Anirudh-chaudhary3
 
 ## **About me**🌐
 
