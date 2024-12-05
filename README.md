@@ -6,24 +6,24 @@
 🔗**Linkedln :** www.linkedin.com/in/anirudh-chaudhary0304<br>
 👨🏻‍💻**GitHub :** 
 
-**About me**🌐
+## **About me**🌐
 
 
-**Professional Highlights**🌟
+## **Professional Highlights**🌟
 
 
-**Tech Toolkit**🛠️
+## **Tech Toolkit**🛠️
 
 - **Languages**🌱 -
 - **Frameworks & Libraries**📫 -
 - **Tools**👀 -
 - **Specialities**⚡ -
 
-**Education**🎓
+## **Education**🎓
 
 - **Bachelors in Computer Applications**, GLA University
 
-**Certification**📜
+## **Certification**📜
 
 - **Coursera** -
 - **Udemy** -
