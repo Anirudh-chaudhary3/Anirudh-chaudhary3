@@ -14,10 +14,10 @@
 
 ## **Tech Toolkit**🛠️
 
-- **Languages**🌱 -
-- **Frameworks & Libraries**📫 -
-- **Tools**👀 -
-- **Specialities**⚡ -
+- **Languages**🌱 - Python , SQL , Java , Go , HTML , CSS , C++
+- **Frameworks & Libraries**📫 - Pandas , Numpy , Matplotlib , Seaborn , Scikit-Learn
+- **Tools**👀 - Excel , PowerPoint , Jupyter Notebook , Spyder , Google Colab , Visual Studio Code , PyCharm , Power BI
+- **Databases / Platforms**⚡ - MySQL , MongoDB , Neo4J
 
 ## **Education**🎓
 
